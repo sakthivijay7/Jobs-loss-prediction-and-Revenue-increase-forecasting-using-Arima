@@ -2,7 +2,8 @@
 Job_loss % Due to Ai:
 
 Data collection:
-Data colleted from kaggle.Dataset contains percentage value (%)of the AI_adoption rate,Job loss,Human-Ai collabration,Revenue increase,Customer_trust,category of Country,Industry,Regulation_status,TOP-AI tools and Year.
+Data collected from kaggle.Dataset contains percentage value (%)of the AI_adoption rate,Job loss,Human-Ai collabration,Revenue
+increase,Market share,Customer_trust,category of Country,Industry,Regulation_status,TOP-AI tools and Year.
 
 Data Handle:
 Pandas libarary to read the dataset,checking null values,describe to statistical report (Mean,Standard Deviation,Max,min,etc...)for each numerical value columns.

@@ -18,17 +18,17 @@ Algorithm:
 Linear Regression and Random Forest Regression
 
 Model save:
-Model saved in pickel file for future prediction.
+Model saved in pickle file for future prediction.
 
 Result:
 Random Forest had less R2 score (~ -1.17) and Mean square(~230) Error work well in this job_loss prediction. 
 
-Power BI interactive deshboard for visual insights:
+Power BI interactive dashboard for visual insights:
 ![ai_impact](https://github.com/user-attachments/assets/1adf1226-a0bd-4ebe-93e8-51c145fb8d5e)
 [Autoregressive Integrated Moving Average]:
 
-Industry revenue forecasting using Arima:
-Stastsmodel of Arime for Revenue forecasting
+Industry revenue forecasting using ARIMA:
+Statsmodel of ARIMA for Revenue time series forecasting
 
 Data:
 same data to slicing year and Revenue columns.
